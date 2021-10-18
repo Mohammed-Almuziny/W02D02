@@ -88,11 +88,11 @@ const countNumberOfElements = (arr) => {
 const items = [
   {
     item: "switch",
-    purchasePrice: 399,
+    purchasePrice: 390,
   },
   {
     item: "nike",
-    purchasePrice: 1500,
+    purchasePrice: 150,
   },
 ];
 
