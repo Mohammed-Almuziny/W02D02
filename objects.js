@@ -68,7 +68,6 @@ const totalCharacters = (arr) => {
     for ( let i = 0; i <= arr.length; i++){
         if (typeof(arr[i]) == 'string') {
             sizes.push({ house: arr[i], members: arr[++i]})
-            console.log(sizes);            
         }
     }
     return sizes
